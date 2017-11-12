@@ -31,3 +31,5 @@ console.log(m,n);
 var u = Math.random();
 //returns value between 0 and 1
 console.log(Math.round(u*10));
+var w=Math.ceil(3.2);
+var x=Math.floor(3.5);
