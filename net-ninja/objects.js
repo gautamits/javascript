@@ -13,4 +13,4 @@ orc.shape="sphere";
 
 document.write(orc.shape);
 delete orc.shape;
-document.write(String(orc));
+document.write(orc.toSource);
